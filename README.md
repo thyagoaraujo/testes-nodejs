@@ -1,12 +1,12 @@
-# Testes no Nodejs
+# Testing Nodejs with Jest and TDD
 
-Aula do bootcamp GoStack da Rocketseat sobre testes no Nodejs com Jest
+Rocketseat GoStack bootcamp lesson testing Nodejs with Jest and TDD
 
 ## Features
 
-- Teste na criação de usuário
-- Teste verificando email duplicado
-- Teste na criptografia da senha
+- Test user creation
+- Test checking duplicate email
+- Test password encryption
 
 ## :rocket: Technologies
 
